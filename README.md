@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nissan</h1>
-<h3 align="center">A passionate junior MERN Stack Developer from Bangladesh/</h3>
+<h3 align="center">A passionate junior MERN Stack Developer from Bangladesh </h3>
 
 <img align="right" alt=coding width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
